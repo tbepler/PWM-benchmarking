@@ -1,3 +1,7 @@
+.*
+!.gitignore
+benchmark
+
 # Object files
 *.o
 *.ko
