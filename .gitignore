@@ -1,6 +1,7 @@
 .*
 !.gitignore
 benchmark
+testArrayList
 
 # Object files
 *.o
